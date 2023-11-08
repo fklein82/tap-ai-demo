@@ -9,6 +9,6 @@ metadata:
 spec:
   source:
     git:
-      url: https://github.com/fklein82/ai-tap.git
+      url: https://github.com/fklein82/tap-ai-demo.git
       ref:
         branch: main
